@@ -1,19 +1,19 @@
 //
-//  RouteItFrameworkTests.m
-//  RouteItFrameworkTests
+//  TestAppTests.m
+//  TestAppTests
 //
-//  Created by Reetesh Bajpai on 12/12/14.
-//  Copyright (c) 2014 MediaAgility. All rights reserved.
+//  Created by Pintu on 2/19/15.
+//  Copyright (c) 2015 Pintu. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface RouteItFrameworkTests : XCTestCase
+@interface TestAppTests : XCTestCase
 
 @end
 
-@implementation RouteItFrameworkTests
+@implementation TestAppTests
 
 - (void)setUp {
     [super setUp];

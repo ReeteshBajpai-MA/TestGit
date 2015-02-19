@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  RouteItFramework
+//  TestApp
 //
-//  Created by Reetesh Bajpai on 12/12/14.
-//  Copyright (c) 2014 MediaAgility. All rights reserved.
+//  Created by Pintu on 2/19/15.
+//  Copyright (c) 2015 Pintu. All rights reserved.
 //
 
 #import "AppDelegate.h"
