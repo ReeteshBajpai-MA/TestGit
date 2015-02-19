@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  TestApp
+//  GitSampleCode
 //
-//  Created by Pintu on 2/19/15.
-//  Copyright (c) 2015 Pintu. All rights reserved.
+//  Created by Vipin Gangwar on 19/02/15.
+//  Copyright (c) 2015 MediaAgility. All rights reserved.
 //
 
 #import "AppDelegate.h"

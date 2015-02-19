@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>0AC052F6-8B27-4F97-ACFE-2639C26B3642</string>
+	<string>15D504F6-211F-411D-9503-6BCC2D49B160</string>
 	<key>IDESourceControlProjectName</key>
-	<string>TestApp</string>
+	<string>GitSampleCode</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>70F761140A79108E4EF6CC1D2F39FB29D0DA5153</key>
 		<string>https://github.com/ReeteshBajpai-MA/TestGit.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TestApp/TestApp.xcodeproj</string>
+	<string>GitSampleCode/GitSampleCode.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>70F761140A79108E4EF6CC1D2F39FB29D0DA5153</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>70F761140A79108E4EF6CC1D2F39FB29D0DA5153</string>
 			<key>IDESourceControlWCCName</key>
-			<string>MindWobbleGit</string>
+			<string>VipinCode</string>
 		</dict>
 	</array>
 </dict>

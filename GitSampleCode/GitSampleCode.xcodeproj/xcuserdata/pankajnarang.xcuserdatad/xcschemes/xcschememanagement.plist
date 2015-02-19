@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TestApp.xcscheme</key>
+		<key>GitSampleCode.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F24177781A95B7D30039B83A</key>
+		<key>4934B9C51A95CE0000A15127</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F24177911A95B7D30039B83A</key>
+		<key>4934B9DE1A95CE0000A15127</key>
 		<dict>
 			<key>primary</key>
 			<true/>
